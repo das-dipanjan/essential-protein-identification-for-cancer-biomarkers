@@ -62,8 +62,9 @@ Each dataset contains **protein interaction data** that helps train and evaluate
 - **AdaBoost** improved weak classifiers to yield stable predictions
 
 ## Project Report
-
+The project report is uploaded at [this link](https://www.example.com)
 ## Presentation
+![Final Year](https://github.com/user-attachments/assets/18a98d02-efb1-4307-a8fd-ba7f1bc1db98)
 
 
 ## 👨‍💻 **Contributors**  
